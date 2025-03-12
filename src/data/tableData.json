@@ -1,0 +1,159 @@
+[
+    {
+        "name": "Alice Johnson",
+        "avatar": "https://i.pravatar.cc/42",
+        "status": "Working",
+        "role": "UX Designer",
+        "email": "alice@company.com",
+        "teams": [
+            "Design",
+            "Product"
+        ]
+    },
+    {
+        "name": "Bob Williams",
+        "avatar": "https://i.pravatar.cc/43",
+        "status": "On Leave",
+        "role": "Frontend Developer",
+        "email": "bob@company.com",
+        "teams": [
+            "Development"
+        ]
+    },
+    {
+        "name": "Charlie Brown",
+        "avatar": "https://i.pravatar.cc/44",
+        "status": "Working",
+        "role": "Backend Developer",
+        "email": "charlie@company.com",
+        "teams": [
+            "Development"
+        ]
+    },
+    {
+        "name": "David Miller",
+        "avatar": "https://i.pravatar.cc/45",
+        "status": "Working",
+        "role": "Product Owner",
+        "email": "david@company.com",
+        "teams": [
+            "Product"
+        ]
+    },
+    {
+        "name": "Emma Wilson",
+        "avatar": "https://i.pravatar.cc/46",
+        "status": "On Leave",
+        "role": "QA Engineer",
+        "email": "emma@company.com",
+        "teams": [
+            "Development",
+            "Testing"
+        ]
+    },
+    {
+        "name": "Frank Thomas",
+        "avatar": "https://i.pravatar.cc/47",
+        "status": "Working",
+        "role": "DevOps Engineer",
+        "email": "frank@company.com",
+        "teams": [
+            "Infrastructure",
+            "Development"
+        ]
+    },
+    {
+        "name": "Grace Lee",
+        "avatar": "https://i.pravatar.cc/48",
+        "status": "Working",
+        "role": "Data Scientist",
+        "email": "grace@company.com",
+        "teams": [
+            "AI/ML",
+            "Product"
+        ]
+    },
+    {
+        "name": "Henry Adams",
+        "avatar": "https://i.pravatar.cc/49",
+        "status": "On Leave",
+        "role": "HR Manager",
+        "email": "henry@company.com",
+        "teams": [
+            "HR"
+        ]
+    },
+    {
+        "name": "Isabella Moore",
+        "avatar": "https://i.pravatar.cc/50",
+        "status": "Working",
+        "role": "Marketing Specialist",
+        "email": "isabella@company.com",
+        "teams": [
+            "Marketing"
+        ]
+    },
+    {
+        "name": "Jack White",
+        "avatar": "https://i.pravatar.cc/51",
+        "status": "Working",
+        "role": "Customer Support",
+        "email": "jack@company.com",
+        "teams": [
+            "Support"
+        ]
+    },
+    {
+        "name": "Kelly Green",
+        "avatar": "https://i.pravatar.cc/52",
+        "status": "On Leave",
+        "role": "Business Analyst",
+        "email": "kelly@company.com",
+        "teams": [
+            "Product",
+            "Business"
+        ]
+    },
+    {
+        "name": "Liam Carter",
+        "avatar": "https://i.pravatar.cc/53",
+        "status": "Working",
+        "role": "Software Engineer",
+        "email": "liam@company.com",
+        "teams": [
+            "Development"
+        ]
+    },
+    {
+        "name": "Mia Scott",
+        "avatar": "https://i.pravatar.cc/54",
+        "status": "Working",
+        "role": "Graphic Designer",
+        "email": "mia@company.com",
+        "teams": [
+            "Design",
+            "Marketing"
+        ]
+    },
+    {
+        "name": "Noah Baker",
+        "avatar": "https://i.pravatar.cc/55",
+        "status": "Working",
+        "role": "Tech Lead",
+        "email": "noah@company.com",
+        "teams": [
+            "Development",
+            "Product"
+        ]
+    },
+    {
+        "name": "Olivia King",
+        "avatar": "https://i.pravatar.cc/56",
+        "status": "On Leave",
+        "role": "Content Writer",
+        "email": "olivia@company.com",
+        "teams": [
+            "Marketing"
+        ]
+    }
+]

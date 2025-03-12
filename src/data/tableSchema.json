@@ -1,0 +1,33 @@
+[
+  {
+    "id": "name",
+    "header": "Name",
+    "type": "text",
+    "sortable": false
+  },
+  {
+    "id": "status",
+    "header": "Status",
+    "type": "badge",
+    "sortable": false
+  },
+  {
+    "id": "role",
+    "header": "Role",
+    "type": "text",
+    "sortable": false,
+    "filter": "multi-select"
+  },
+  {
+    "id": "email",
+    "header": "Email",
+    "type": "text",
+    "sortable": false
+  },
+  {
+    "id": "teams",
+    "header": "Teams",
+    "type": "tags",
+    "sortable": false
+  }
+]
